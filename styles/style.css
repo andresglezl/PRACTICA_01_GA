@@ -1,8 +1,18 @@
 h1 {
+<<<<<<< HEAD
     color: green;
+=======
+    color: yellow;
+>>>>>>> feature_2
 }
 p {
     color: blue;
 }
 table {
+<<<<<<< HEAD
     background-color: lightblue;
+=======
+    background-color: lightblue;
+}
+
+>>>>>>> feature_2
